@@ -2,8 +2,10 @@
   "name": "barebones-react",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://russotx.github.io/barebones-react",
   "dependencies": {
     "express": "^4.15.3",
+    "gh-pages": "^1.0.0",
     "install": "^0.10.1",
     "react": "^15.6.1",
     "react-dom": "^15.6.1"
